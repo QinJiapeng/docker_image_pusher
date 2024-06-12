@@ -3,3 +3,4 @@ apache/rocketmq:5.1.4
 apacherocketmq/rocketmq-dashboard:latest
 redis:6
 openjdk:8
+openjdk:17-jdk-alpine
