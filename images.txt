@@ -1,1 +1,1 @@
-zookeeper:3.9.2
+apache/doris:1.2.1-be-x86_64
