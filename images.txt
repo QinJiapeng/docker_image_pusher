@@ -1,1 +1,1 @@
-emqx:5.8.2
+truevoly/oracle-12c
