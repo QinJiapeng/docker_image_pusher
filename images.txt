@@ -1,1 +1,1 @@
-truevoly/oracle-12c
+minio/minio
